@@ -1,0 +1,20 @@
+/*Definimos el contorno de la tabla*/
+table, th, td {
+  border:1px solid black;
+}
+/*Definimos el estilo del primer heading h1*/
+h1 {
+    color:purple;
+    text-align:center;
+    font-weight: bold;
+}
+/*Definimos el estilo de los título de tabla*/
+caption {
+    color:blue;
+}
+/*Definimos el estilo de los headings de la tabla*/
+th {
+    background-color:grey;
+    text-align:center;
+    font-weight: bold;
+}
